@@ -28,3 +28,5 @@ cd "nombrecarpeta"/
 3.
 //clonar el repositorio el la carpeta 
 $ git clone git@github.com:fbrzzhormazabal/ocupandorepos.git
+
+Catedra 1 17/11 - presentacion con una serie de preguntas 
